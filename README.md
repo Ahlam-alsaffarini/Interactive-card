@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-   <a href="https://ahlam-alsaffarini.github.io/age-calculator/"> Demo 🔥🤍</a>
+   <a href="https://ahlam-alsaffarini.github.io/Interactive-card/"> Demo 🔥🤍</a>
 </div>
 
 <div align="center">
